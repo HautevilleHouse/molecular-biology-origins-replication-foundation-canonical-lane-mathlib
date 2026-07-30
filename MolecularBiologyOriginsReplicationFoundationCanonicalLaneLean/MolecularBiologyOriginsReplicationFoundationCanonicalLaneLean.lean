@@ -1,0 +1,9 @@
+import MolecularBiologyOriginsReplicationFoundationCanonicalLaneLean.Basic
+
+namespace HautevilleHouse
+namespace MolecularBiologyOriginsReplicationFoundationCanonicalLaneLean
+
+-- This module is the root of the MolecularBiologyOriginsReplicationFoundationCanonicalLaneLean Lean proof package.
+
+end MolecularBiologyOriginsReplicationFoundationCanonicalLaneLean
+end HautevilleHouse
